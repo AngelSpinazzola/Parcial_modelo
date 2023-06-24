@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1687580049 source:c:\users\angel\onedrive\escritorio\parciales de simulacro\modelo de segundo parcial\parcial_modelo\parcial.cpp\main.cpp
+	<iostream>
+	<locale.h>
+	"funciones.h"
+
+1687580049 c:\users\angel\onedrive\escritorio\parciales de simulacro\modelo de segundo parcial\parcial_modelo\parcial.cpp\funciones.h
+
+1687580049 source:c:\users\angel\onedrive\escritorio\parciales de simulacro\modelo de segundo parcial\parcial_modelo\parcial.cpp\funciones.cpp
+	<iostream>
+	<clocale>
+	"funciones.h"
+	<string>
+
